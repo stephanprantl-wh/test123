@@ -1,0 +1,5 @@
+https://data-synergis.opendata.arcgis.com/
+https://data-synergis.opendata.arcgis.com/search?q=Staatsgrenze
+https://data-synergis.opendata.arcgis.com/datasets/fc832fffbbe34107a3e6d763a00f47be_0/explore?location=47.694654%2C13.346500%2C8.21
+
+Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0
